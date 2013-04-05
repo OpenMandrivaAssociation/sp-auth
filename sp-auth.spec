@@ -1,3 +1,4 @@
+%define debug_package %nil
 %if %{_use_internal_dependency_generator}
 %define __noautoprov 'libstdc++(.*)'
 %define __noautoreq 'libstdc++(.*)|(.*)GLIBC_PRIVATE(.*)'
@@ -6,7 +7,7 @@
 Summary:	SopCast client
 Name:		sp-auth
 Version:	3.2.6
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Video
 Url:		http://code.google.com/p/sopcast-player/
