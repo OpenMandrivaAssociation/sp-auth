@@ -7,7 +7,7 @@
 Summary:	SopCast client
 Name:		sp-auth
 Version:	3.2.6
-Release:	3
+Release:	4
 License:	Freeware
 Group:		Video
 Url:		http://code.google.com/p/sopcast-player/
