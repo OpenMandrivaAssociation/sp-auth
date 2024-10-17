@@ -10,7 +10,7 @@ Version:	3.2.6
 Release:	4
 License:	Freeware
 Group:		Video
-Url:		http://code.google.com/p/sopcast-player/
+Url:		https://code.google.com/p/sopcast-player/
 Source0:	http://sopcast-player.googlecode.com/files/%{name}-%{version}.tar.gz
 Source1:	libstdcpp5.tgz
 ExclusiveArch:	%{ix86}
